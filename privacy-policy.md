@@ -1,10 +1,10 @@
 # Privacy Policy for Clenvo
 
-**Effective date:** [EFFECTIVE_DATE]
+**Effective date:** September 21, 2026
 
-[DEVELOPER_NAME] ("we," "us," or "our") operates the Clenvo mobile application (the "App"). This Privacy Policy explains what information the App accesses, how it is used, and your choices — in plain language first, with the full detail below.
+ThriveOrbiti ("we," "us," or "our") operates the Clenvo mobile application (the "App"). This Privacy Policy explains what information the App accesses, how it is used, and your choices — in plain language first, with the full detail below.
 
-**This policy must be published at a public URL and that URL entered into Google Play Console before submission.** Everything in brackets (e.g. `[EFFECTIVE_DATE]`) is a placeholder to fill in before publishing.
+**This policy must be published at a public URL and that URL entered into Google Play Console before submission.**
 
 ## Summary
 
@@ -74,14 +74,4 @@ We may update this Privacy Policy from time to time. Material changes will be re
 
 ## 9. Contact Us
 
-Questions about this Privacy Policy can be sent to: [SUPPORT_EMAIL]
-
----
-
-## Before you publish this — checklist
-
-1. Replace `[EFFECTIVE_DATE]`, `[DEVELOPER_NAME]`, and `[SUPPORT_EMAIL]` with real values.
-2. Host this document at a public URL (your own website, or a static page such as GitHub Pages) — Play Console requires a live URL, not a file upload.
-3. Enter that URL in Play Console → **Policy → App content → Privacy policy**.
-4. This text assumes the AdMob **test** App ID is replaced with your real AdMob App ID before release (`apps/mobile/android/app/src/main/AndroidManifest.xml` currently has a `TODO` for this) — the policy's ad-data description applies to production AdMob, not the test SDK.
-5. Play Console will separately ask you to complete a **Data Safety** form and, because the App requests photo/media access, a **Permissions declaration** (and possibly a short screen-recording) under the Photo and Video Permissions policy — this document supports those, but doesn't replace filling them out in Play Console.
+Questions about this Privacy Policy can be sent to: thriveorbiti@gmail.com
